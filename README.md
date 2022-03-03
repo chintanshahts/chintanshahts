@@ -10,8 +10,11 @@
 
 ### 📊 GitHub Stats:
 ---
-![Mayur github stats](https://github-readme-stats.vercel.app/api?username=chintanshahts&theme=radical&show_icons=true&count_private=true)
+![Chintan github stats](https://github-readme-stats.vercel.app/api?username=chintanshahts&theme=radical&show_icons=true&count_private=true)
 
-![Mayur Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintanshahts&theme=solarized_dark)
-![Mayur Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintanshahts&theme=solarized_dark)
-![Mayur Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintanshahts&theme=solarized_dark)
+![Chintan Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chintanshahts&theme=solarized_dark&count_private=true)
+![Chintan Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chintanshahts&theme=solarized_dark&count_private=true)
+![Chintan Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chintanshahts&theme=solarized_dark&count_private=true)
+
+![Chintan Summary](https://github-readme-stats.vercel.app/api/top-langs/?username=chintanshahts&count_private=true&show_icons=true&theme=solarized_dark)
+
