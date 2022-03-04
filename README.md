@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Node.js, React.js, Python, AWS, MongoDB, DynamoDB
 
-p align="left"> <img src="https://komarev.com/ghpvc/?username=chintanshahts&label=Profile%20views&color=0e75b6&style=flat" alt="chintanshahts" /> </p>
+<img src="https://komarev.com/ghpvc/?username=chintanshahts&label=Profile%20views&color=0e75b6&style=flat" alt="chintanshahts" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chintanshahts" alt="chintanshahts" /></a> </p>
 
